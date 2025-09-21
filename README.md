@@ -1,3 +1,18 @@
+cloudstream-plugins/
+├── plugins.json
+└── TestPlugin/
+    ├── plugin.json
+    └── plugin.apk ()
+
+{
+  "name": "HentaiBrosPlugin.csx",
+  "description": "This is a test plugin",
+  "version": 1,
+  "language": "en",
+  "url": "",
+  "authors": ["YourName"]
+}
+https://raw.githubusercontent.com/YOUR_USERNAME/cloudstream-plugins/main/plugins.json
 // HentaiBrosPlugin.csx
 class HentaiBrosPlugin : MainAPI() {
     override var mainUrl = "https://hentaibros.net"
