@@ -12,7 +12,7 @@ cloudstream-plugins/
   "url": "",
   "authors": ["YourName"]
 }
-https://raw.githubusercontent.com/ukuh22195@gmail.com/cloudstream-plugins/main/plugins.json
+https://raw.githubusercontent.com/qw12ftg/cloudstream-plugins/main/plugins.json
 // HentaiBrosPlugin.csx
 class HentaiBrosPlugin : MainAPI() {
     override var mainUrl = "https://hentaibros.net"
